@@ -265,7 +265,7 @@
 - [MagiskBoot] Support patching dtb/dtbo partition formats
 - [General] Support pre-init sepolicy patch in modules
 - [Scripts] Update magisk stock image backup format
-
+zygisk 
 ### v20.1
 
 - [MagiskSU] Support component name agnostic communication (for stub APK)
